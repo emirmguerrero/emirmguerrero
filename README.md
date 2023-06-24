@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @emirmguerrero
 - 👀 I’m interested in python/data
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me > emirmguerrero@gmail.com
 
 <!---
 emirmguerrero/emirmguerrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
