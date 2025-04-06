@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirmguerrero
-- 👀 I’m interested in python/data
-- 🌱 I’m currently learning python
+- 👀 I’m interested in everything
+- 🌱 Have a basic understanding of python/linux, currently learning git
 - 📫 How to reach me > emirmguerrero@gmail.com
 
 <!---
